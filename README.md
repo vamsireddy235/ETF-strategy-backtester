@@ -1,10 +1,14 @@
 # ETF-strategy-backtester
 "Interactive ETF backtesting platform allowing you to analyze and compare 'Buy the Dip', SIP, Momentum, and Hybrid strategies with custom parameters on historical data. Visualize results, download summaries, and optimize your investment approach easily."
 
-
-
-
-
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(1).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(8).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(7).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(6).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(5).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(4).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(3).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(2).png)
 
 This project provides an interactive web app and Python script to backtest, analyze, and visualize diverse ETF investment strategies using historical data. Easily compare how "Buy the Dip", "SIP", "Momentum", and "Hybrid" strategies perform with your custom parameters.
 
