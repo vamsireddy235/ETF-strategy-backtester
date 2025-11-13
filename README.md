@@ -8,7 +8,7 @@
 ![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(5).png)
 ![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(4).png)
 ![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(3).png)
-![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/ae0f087dc3a77be8053d08eab1e389da8b60273e/screenshot/1%20(2).png)
+![screenshot](https://github.com/vamsireddy235/ETF-strategy-backtester/blob/10a8dda10fa4b0ec9d2ae89d2ac923327b7bfb0a/screenshot/1.png)
 
 This project provides an interactive web app and Python script to backtest, analyze, and visualize diverse ETF investment strategies using historical data. Easily compare how "Buy the Dip", "SIP", "Momentum", and "Hybrid" strategies perform with your custom parameters.
 
