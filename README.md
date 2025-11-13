@@ -24,7 +24,7 @@ This project provides an interactive web app and Python script to backtest, anal
 
 1. **Clone the repository:**
     
-    git clone https://github.com/your-username/etf-strategy-backtester.git
+    git clone https://github.com/vamsireddy235/etf-strategy-backtester.git
     cd etf-strategy-backtester
     
 
